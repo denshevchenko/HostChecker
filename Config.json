@@ -1,0 +1,17 @@
+{
+      "servers": {
+        "hostName1": "server1",
+        "hostName2": "server2",
+        "storageHost": "server3"
+      },
+
+      "serverParameters":  {
+        "timeZone": "GMT+3",
+        "svcAccountExpires": "false",
+        "svcAccountPasswordExpires": "DisablePasswordExpiration",
+        "serviceName": "sshd",
+        "serviceStatus": "running"
+
+      }
+   }
+  
